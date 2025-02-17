@@ -8,7 +8,7 @@ Node.js (versi 14 atau lebih tinggi)
 ## Instalasi
 1. Clone repository ke mesin lokal Anda:
 ```bash
-git clone https://github.com/fypairdrop/teneo-bot.git
+git clone https://github.com/FYPairdrop/teneo-bot.git
 ```
 2. Masuk ke direktori proyek:
 ```bash
